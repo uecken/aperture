@@ -6,5 +6,5 @@
 	"copper_thickness":0.035,
 	"dissipation_factor":0.0009,
 	"polarisation":"rhcp",
-	"patch_count":4
+	"patch_count":1
 }
